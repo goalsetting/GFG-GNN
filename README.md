@@ -3,7 +3,7 @@
 This repository contains the implementation for the manuscript:
 
 **"Deciphering Collaborative Fraud in Digital Transaction Platforms: Jointly Modeling User Relationships and Community Signals"**,  
-submitted to *European Journal of Operational Research (EJOR)*.
+submitted to *Information Processing & Management (IPM)*.
 
 ---
 
